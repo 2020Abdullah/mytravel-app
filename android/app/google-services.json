@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084670968897",
+    "project_id": "mytravel-a90b2",
+    "storage_bucket": "mytravel-a90b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084670968897:android:40a4437f811ae6b6d2b2c0",
+        "android_client_info": {
+          "package_name": "at.mytravel.tourist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHy4Ti_l5JaBU1vJzj6XonEHy3F2o2JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084670968897:android:b9813ee37df66795d2b2c0",
+        "android_client_info": {
+          "package_name": "com.example.mytravel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHy4Ti_l5JaBU1vJzj6XonEHy3F2o2JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
